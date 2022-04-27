@@ -1,0 +1,31 @@
+body{
+    background-color:brown;
+}
+.a1{
+    width:auto;
+    float: right;
+    background-color: honeydew
+
+}
+.a2{
+    width:15;
+    float:left
+    
+}
+ form{
+        padding:10px 0 0 30px;
+    }
+    label{
+        color:black;
+        padding:1 20px;
+    }
+h1{
+    font: arial;
+    width: 10;
+    float:middle;
+}
+.u1{
+    color: blanchedalmond;
+    width: 30px;
+    float: right;
+}
